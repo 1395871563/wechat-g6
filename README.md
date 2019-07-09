@@ -1,3 +1,4 @@
 # wechat-g6
 
-helloworld
+
+shenzhenshixun
